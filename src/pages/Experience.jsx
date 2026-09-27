@@ -52,7 +52,7 @@ export default function Experience() {
               <div className="who">— Arun Kumar</div>
             </div>
             <div className="desk-card">
-              <img src="/images/experience/my ex.png" alt="Professional workspace" className="experience-image" />
+              <img src="/images/experience/my ex.jpg" alt="Professional workspace" className="experience-image" />
             </div>
           </div>
         </div>
